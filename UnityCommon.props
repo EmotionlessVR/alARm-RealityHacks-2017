@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>alARm</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\Everything\Unity Projects\Vuforia Test\finalbuild\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\Everything\Unity Projects\Vuforia Test\</UnityProjectDir>
+        <UnityWSAPlayerDir>D:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
